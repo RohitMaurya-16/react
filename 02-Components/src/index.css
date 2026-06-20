@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #111;
+  color: #fff;
+}
+.card{
+  color:red;
+  background-color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  
+}
+
+.para{
+  color:yellowgreen;
+
+}
+
+.nav{
+  background-color: aqua;
+  color: darkmagenta;
+  margin: 20px;
+  padding: 20px;
+}
