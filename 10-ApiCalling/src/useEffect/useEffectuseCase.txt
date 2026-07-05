@@ -1,0 +1,5 @@
+1. When ever any task in done use effect wiil run.--> It is called Mounting
+
+2. If we pass [] array to useEffect() as second argument it will run only one time mean in first change.
+
+3. If you pass lets suppose num in dependency array whenever value of num will change the useEffect will trigger.
